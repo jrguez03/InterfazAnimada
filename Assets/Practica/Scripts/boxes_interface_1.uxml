@@ -1,9 +1,9 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
     <Style src="project://database/Assets/Practica/Scripts/box_style_1.uss?fileID=7433441132597879392&amp;guid=bcce2bad216c6f7479f1c5ba6b8ae79d&amp;type=3#box_style_1" />
     <ui:Box name="horizontal_box">
-        <ui:Button name="bttn_1" text="Arbol" style="-unity-font: url(&apos;project://database/Assets/Fuentes/Corn_Farm.ttf?fileID=12800000&amp;guid=69190c8a150798544abffd298e2f674f&amp;type=3#Corn_Farm&apos;); -unity-font-definition: initial;" />
-        <ui:Button name="bttn_2" text="Flor" style="-unity-font: url(&apos;project://database/Assets/Fuentes/Corn_Farm.ttf?fileID=12800000&amp;guid=69190c8a150798544abffd298e2f674f&amp;type=3#Corn_Farm&apos;); -unity-font-definition: initial;" />
-        <ui:Button name="bttn_3" text="Hierba" style="-unity-font: url(&apos;project://database/Assets/Fuentes/Corn_Farm.ttf?fileID=12800000&amp;guid=69190c8a150798544abffd298e2f674f&amp;type=3#Corn_Farm&apos;); -unity-font-definition: initial;" />
+        <ui:Button name="bttn_1" text="Arboles" style="-unity-font: url(&apos;project://database/Assets/Fuentes/Corn_Farm.ttf?fileID=12800000&amp;guid=69190c8a150798544abffd298e2f674f&amp;type=3#Corn_Farm&apos;); -unity-font-definition: initial;" />
+        <ui:Button name="bttn_2" text="Plantas" style="-unity-font: url(&apos;project://database/Assets/Fuentes/Corn_Farm.ttf?fileID=12800000&amp;guid=69190c8a150798544abffd298e2f674f&amp;type=3#Corn_Farm&apos;); -unity-font-definition: initial;" />
+        <ui:Button name="bttn_3" text="Entorno" style="-unity-font: url(&apos;project://database/Assets/Fuentes/Corn_Farm.ttf?fileID=12800000&amp;guid=69190c8a150798544abffd298e2f674f&amp;type=3#Corn_Farm&apos;); -unity-font-definition: initial;" />
         <ui:Button name="bttn_4" text="Back" style="-unity-font: url(&apos;project://database/Assets/Fuentes/Corn_Farm.ttf?fileID=12800000&amp;guid=69190c8a150798544abffd298e2f674f&amp;type=3#Corn_Farm&apos;); -unity-font-definition: initial;" />
     </ui:Box>
     <ui:Box name="vertical_box">
